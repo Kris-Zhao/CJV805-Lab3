@@ -1,0 +1,14 @@
+Lab3 Assignment Submission 
+================================================================================================================
+I/we declare that the attached assignment is my/our own work in accordance with Seneca
+Academic Policy. No part of this assignment has been copied manually or electronically from any
+other source (including web sites) or distributed to other students.
+Name(s):Yuhang Zhao           Student ID(s):150467199
+================================================================================================================
+There are two packages totally.
+
+The first package is section1, including "StringTest" class, which is to  test the methods length,charAt, substring, and indexOf in
+thejava.lang.String class.
+
+The second package is section2, including source code "Section2" and another "Section2Test" class, which is to test four different methods 
+in the source codes.
